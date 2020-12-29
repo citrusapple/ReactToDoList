@@ -1,11 +1,10 @@
-function mainComponent(){
+function MainComponent(){
     return (
         <div>
-            <h1>wing</h1>
-            <p>magic</p>
+            <h1>main component content</h1>
         </div>
     );
 }
 
-export default mainComponent;
+export default MainComponent;
   
