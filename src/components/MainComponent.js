@@ -1,7 +1,7 @@
 function MainComponent(){
     return (
         <div>
-            <h1>main component content</h1>
+            <h1>React To Do List</h1>
         </div>
     );
 }
